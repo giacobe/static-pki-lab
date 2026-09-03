@@ -21,6 +21,10 @@ instructions rather than relying on a generic "host-only" label.
 
 ## Grading boundary
 
+Use the detailed 50-point rubrics in `lab/GRADING-RUBRICS.md`. Each rubric
+assigns 30 points to evidence of completed work and 20 points to qualitative
+assessment of annotations, answers, interpretation, and reflection.
+
 The scripts may install prerequisites, set infrastructure hostnames, write
 static network configuration, and perform read-only preflight checks. They do
 not perform the graded PKI work.
@@ -57,4 +61,3 @@ Personalizing the site hostname makes reports less static but does not prove
 independent completion. Consider requiring randomly assigned certificate
 serial starting values, short instructor-provided challenge text on the web
 page, or a live check of the student's three-VM environment.
-

@@ -22,6 +22,7 @@ website `https://abc1234.psu.edu/`.
 - [Printable student lab PDF](output/pdf/Three-VM-PKI-Lab.pdf)
 - [Student lab manual](lab/PKI-LAB.md)
 - [Instructor notes](lab/INSTRUCTOR-NOTES.md)
+- [Two 50-point grading rubrics](lab/GRADING-RUBRICS.md)
 - [Windows/macOS VMware precursor](precursor/PRECURSOR-LAB.md)
 - [Printable VMware precursor PDF](output/pdf/PKI-Precursor-VMware.pdf)
 - [NAT-phase package installation script](scripts/install-role-packages.sh)
